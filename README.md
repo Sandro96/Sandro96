@@ -6,7 +6,6 @@ Apasionado por la tecnología, la programación y la creación de soluciones inn
 
 
 <br/>
----
 <br/>
 
 
@@ -26,7 +25,6 @@ Apasionado por la tecnología, la programación y la creación de soluciones inn
 
 
 <br/>
----
 <br/>
 
 
