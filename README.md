@@ -28,8 +28,6 @@ Apasionado por la tecnología, la programación y la creación de soluciones inn
 
 ### **Herramientas**
 <img align="left" alt="Postman" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-<img align="left" alt="Octopus Deploy" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/octopusdeploy/octopusdeploy-original.svg"/>
-<img align="left" alt="Team City" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/teamcity/teamcity-original.svg"/>
 <br/>
 
 ---
