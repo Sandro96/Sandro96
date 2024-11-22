@@ -28,4 +28,4 @@ Apasionado por la tecnología, la programación y la creación de soluciones inn
 
 - **Email**: ramirezsandro96@gmail.com
 - **LinkedIn**: [Sandro Ramirez](https://www.linkedin.com/in/sandro-ramirez)
-- **Portfolio**: [Mi portfolio c:](https://ramirezsandro.com)
+- **Portfolio**: [Mi portfolio](https://ramirezsandro.com)
