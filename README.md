@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sandro Ramirez
 
-### 🌟 Desarrollador Web FullStack Junior
+### 🌟 Desarrollador Web FullStack
 
 Apasionado por la tecnología, la programación y la creación de soluciones innovadoras. Actualmente, estoy trabajando en varios proyectos que combinan **React**, **Node.js**, **APIs** y **diseño web moderno**. Siempre buscando aprender algo nuevo y mejorar mis habilidades para llevar cada proyecto al siguiente nivel.
 
